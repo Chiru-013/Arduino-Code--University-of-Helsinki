@@ -1,3 +1,5 @@
+//Code to plot the graphs using Serial plotter
+
 #include <LiquidCrystal.h>
 #include <SPI.h>
 #include <DHT.h> 
