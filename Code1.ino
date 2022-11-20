@@ -1,4 +1,4 @@
-
+//Code to display CO2 concentration value on LCD
 #include <LiquidCrystal.h>
 #include <SPI.h>
 #include <DHT.h> 
